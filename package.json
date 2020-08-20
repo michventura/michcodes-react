@@ -1,7 +1,6 @@
 {
-  "name": "ejercicios-basicos-de-react",
+  "name": "react-bits",
   "version": "0.1.0",
-  "description": "",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.13.0",
